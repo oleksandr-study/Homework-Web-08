@@ -1,6 +1,3 @@
-import json
-from datetime import datetime
-
 import pika
 from faker import Faker
 
